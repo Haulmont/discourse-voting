@@ -8,6 +8,11 @@
 tr_TR:
   js:
     voting:
+      reached_limit: "Oy hakkınız kalmadı, mevcut bir oyunuzu kaldırın!"
+      list_votes: "Oylarınızı listeleyin"
+      votes_nav_help: "en çok oy alan konular"
+      voted: "Bu konuyu oyladınız"
+      allow_topic_voting: "Kullanıcıların bu kategorideki konularda oy kullanmasına izin verilsin mi?"
       vote_title: "Oyla"
       vote_title_plural: "Oylar"
       voted_title: "Oylanmış"

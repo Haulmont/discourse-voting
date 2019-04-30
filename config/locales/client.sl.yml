@@ -1,0 +1,28 @@
+# encoding: utf-8
+#
+# Never edit this file. It will be overwritten when translations are pulled from Transifex.
+#
+# To work with us on translations, join this project:
+# https://www.transifex.com/projects/p/discourse-org/
+
+sl:
+  js:
+    voting:
+      reached_limit: "Nimate več glasov, odstranite obstoječega!"
+      list_votes: "Prikaži moje glasove"
+      votes_nav_help: "teme z največ glasovi"
+      voted: "Glasovali ste v tej temi"
+      allow_topic_voting: "Dovolite uporabnikom, da glasujejo o temah v tej kategoriji"
+      vote_title: "Glasuj"
+      vote_title_plural: "Glasovi"
+      voted_title: "Glasovano"
+      voting_closed_title: "Zaprta"
+      voting_limit: "Omejitev"
+      anonymous_button:
+        one: "Glas"
+        two: "Glasova"
+        few: "Glasovi"
+        other: "Glasov"
+    filters:
+      votes:
+        title: "Glasovi"
